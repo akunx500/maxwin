@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akunx500.github.io/maxwin/sitemap.xml
